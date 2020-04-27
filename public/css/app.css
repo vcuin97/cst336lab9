@@ -1,0 +1,51 @@
+body{
+	margin: 10px 0px auto auto;
+	text-align: center;
+}
+
+.notfound {
+	color: red;
+	text-align: center;
+}
+
+.portrait{
+	width: 100%;
+	height: 100%;
+}
+
+.info {
+	margin-left: 50px;
+	font-size: 15px;
+	text-align: justify;
+}
+
+.info > .bio {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.btn btn-primary btn-block{
+	color: orange;
+}
+
+#left{
+	text-align: left;
+}
+
+#home{
+	font-family: "Times New Roman", Times, serif;
+}
+
+#background{
+	background-color: #315a9e;
+}
+
+#style{
+	color:white!important;
+	background: rgba(0, 0, 0, 0.6);
+	border-radius: 15px 50px 30px 5px;
+}
+
+#quotes{
+	text-align: left;
+	color: white;
+}
